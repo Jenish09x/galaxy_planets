@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Sun",
+    "image": "assets/image/Sun.png",
+    "type": "Star",
+    "mass": "330.000 Earth Masses",
+    "radius": "696.340 km / 432.685 mi",
+    "distanceFromSun": "-",
+    "description": "Sun, star around which Earth and the other components of the solar system revolve. It is the dominant body of the system, constituting more than 99 percent of its entire mass. The Sun is the source of an enormous amount of energy, a portion of which provides Earth with the light and heat necessary to support life."
+  },
+  {
+    "name": "Mercury",
+    "image": "assets/image/Mercury1.png",
+    "type": "TerrestrialPlanet",
+    "mass": "0.055 Earth Masses",
+    "radius": "2.439 km / 1.516 mi",
+    "distanceFromSun": "0.4 AU or 58 million km / 36 million mi",
+    "description": "Mercury—the smallest planet in our solar system and nearest to the Sun—is only slightly larger than Earth's Moon. Its surface is covered in tens of thousands of impact craters.\nFrom the surface of Mercury, the Sun would appear more than three times as large as it does when viewed from Earth, and the sunlight would be as much as 11 times brighter."
+  },
+  {
+    "name": "Venus",
+    "image": "assets/image/Venus.png",
+    "type": "Terrestrial Planet",
+    "mass": "0.9 Earth Masses",
+    "radius": "6.051 km / 3.760 mi",
+    "distanceFromSun": "0.7 AU or 108 million km / 67 million mi",
+    "description": "Venus is a cloud-swaddled planet named for a love goddess, and often called Earth’s twin. But pull up a bit closer, and Venus turns hellish. Our nearest planetary neighbor, the second planet from the Sun, has a surface hot enough to melt lead. The atmosphere is so thick that, from the surface, the Sun is just a smear of light."
+  },
+  {
+    "name": "Earth",
+    "image": "assets/image/Earth.png",
+    "type": "Terrestrial Planet",
+    "mass": "1 Earth Mass = 5.9 Quadrillion Kg",
+    "radius": "6.371 km / 3.958 mi",
+    "distanceFromSun": "1.00 AU or 150 million km / 93 million mi",
+    "description": "Earth, third planet from the Sun and the fifth largest planet in the solar system in terms of size and mass. Its single most outstanding feature is that its near-surface environments are the only places in the universe known to harbour life. It is designated by the symbol ♁."
+  },
+  {
+  "name": "Mars",
+  "image": "assets/image/Mars.png",
+  "type": "TerrestrialPlanet",
+  "mass": "0.11 Earth Masses",
+  "radius": "3.389 km / 2.105 mi",
+  "distanceFromSun": "1.5 AU or 228 million km / 142 million mi",
+  "description": "Mars is no place for the faint-hearted. It’s dry, rocky, and bitter cold. The fourth planet from the Sun, Mars is one of Earth's two closest planetary neighbors (Venus is the other). Mars is one of the easiest planets to spot in the night sky – it looks like a bright red point of light.\n\nDespite being inhospitable to humans, robotic explorers – like NASA's Perseverance rover – are serving as pathfinders to eventually get humans to the surface of the Red Planet."
+  },
+  {
+    "name": "Jupiter",
+    "image": "assets/image/Jupiter.png",
+    "type": "GasGiant",
+    "mass": "318 Earth Masses",
+    "radius": "69.911 km / 43.440 mi",
+    "distanceFromSun": "5.2 AU or 778 million km / 484 million mi",
+    "description": "Jupiter is a gas giant, meaning its chemical composition is primarily hydrogen and helium, so called gas in planetary geology, a term which does not denote state of matter. It is the largest planet in the Solar System, with a diameter of 142,984 km (88,846 mi) at its equator, giving it a volume 1,321 times that of the Earth."
+  },
+  {
+    "name": "Saturn",
+    "image": "assets/image/Saturn.png",
+    "type": "Gas Giant",
+    "mass": "95.16 Earth Masses",
+    "radius": "58.232 km / 36.183 mi",
+    "distanceFromSun": "9.5 AU or 1.5 billion km / 886 million mi",
+    "description": "Like fellow gas giant Jupiter, Saturn is a massive ball made mostly of hydrogen and helium. Saturn is not the only planet to have rings, but none are as spectacular or as complex as Saturn's. Saturn also has dozens of moons.\n\nFrom the jets of water that spray from Saturn's moon Enceladus to the methane lakes on smoggy Titan, the Saturn system is a rich source of scientific discovery and still holds many mysteries."
+  },
+  {
+    "name": "Uranus",
+    "image": "assets/image/Uranus.png",
+    "type": "IceGiant",
+    "mass": "14.54 Earth Masses",
+    "radius": "25.362 km / 15.759 mi",
+    "distanceFromSun": "19.8 AU or 2.9 billion km /1.8 billion mi",
+    "description": "Uranus is the seventh planet from the Sun. It is a gaseous cyan -coloured ice giant. Most of the planet is made of water, ammonia, and methane in a supercritical phase of matter, which in astronomy is called 'ice' or volatiles."
+  },
+  {
+    "name": "Neptune",
+    "image": "assets/image/Neptune.png",
+    "type": "Ice Giant",
+    "mass": "17.15 Earth Masses",
+    "radius": "24.764 km / 15.387 mi",
+    "distanceFromSun": "30 AU or 4.5 billion km / 2.8 billion mi",
+    "description": "Dark, cold and whipped by supersonic winds, giant Neptune is the eighth and most distant major planet orbiting our Sun. More than 30 times as far from the Sun as Earth, Neptune is not visible to the naked eye. In 2011, Neptune completed its first 165-year orbit since its discovery.\n\nThe planet’s rich blue color comes from methane in its atmosphere, which absorbs red wavelengths of light, but allows blue ones to be reflected back into space."
+  },
+  {
+    "name": "Pluto",
+    "image": "assets/image/Pluto.png",
+    "type": "Dwarf Planet",
+    "mass": "0.01 Earth Masses",
+    "radius": "1,188 km / 738 mi",
+    "distanceFromSun": "39.5 AU or 5.9 billion km / 3.7 billion mi",
+    "description": "Pluto (minor-planet designation: 134340 Pluto) is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune. It is the ninth-largest and tenth-most- massive known object to directly orbit the Sun. It is the largest known trans-Neptunian object by volume, by a small margin, but is less massive than Eris."
+  }
+]
