@@ -1,5 +1,8 @@
+
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
+import 'package:galaxy_planets/screen/home/provider/home_provider.dart';
+import 'package:provider/provider.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -16,6 +19,7 @@ class _SplashScreenState extends State<SplashScreen> {
       const Duration(seconds: 3),
       () => Navigator.pushReplacementNamed(context, "home"),
     );
+    context.read<HomeProvider>().ani=true;
   }
 
   @override

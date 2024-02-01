@@ -7,10 +7,17 @@ import '../../../utils/shared_helper.dart';
 class HomeProvider with ChangeNotifier {
   List<HomeModel> planetList = [];
   int? isIndex;
+  bool ani=false;
 
   //change index
   void changeIndex(int index) {
     isIndex = index;
+    notifyListeners();
+  }
+
+  void animation(bool change)
+  {
+    ani=change;
     notifyListeners();
   }
 
